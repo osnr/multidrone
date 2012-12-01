@@ -48,6 +48,7 @@ exports.Filter = (function() {
 
   Filter.prototype.update = function(navdata) {
     var measurements;
+    console.log(navdata);
     measurements = {
       position: [x, y, z],
       velocity: [vx, vy, vz]

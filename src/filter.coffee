@@ -22,6 +22,7 @@ class exports.Filter
 
 	'''Takes in navdata from event listener and applies'''
 	update: (navdata)=>
+		console.log navdata
 		measurements = {
 			position : [x, y, z ],
 			velocity : [vx,vy,vz]

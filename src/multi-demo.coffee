@@ -1,0 +1,48 @@
+''' Multidrone demonstration Overview:
+Backgrounds:
+	John
+	Omar
+	Eric
+		- Background / from
+		- Inspiration + Restrictions
+		- Breakthrough
+		- HS robotics
+		- Path to College -> Founder of robotics clubs
+		- Currently 3 projects, 1 competition, $X in funding
+
+Everyone else is working with one drone:
+ - first drone rises
+But the real power of autonomy comes when the mases combine:
+ - second drone rises
+We've written a set of scripts and modified the nodeJS drone library
+to enable virtually limitless simultaneous control of multiple drones
+ - third drone rises
+
+What we've written makes it easier for *everyone* in here to organize
+a drone swarm.  Now your drones can behave independently
+ - first goes to left
+ - second goes forward
+ - third goes right
+ - (stop after 3/4 sec)
+They can react and respond to each other
+ - one rotates cw
+ 	- .5 sec later two rotates cw
+ 		- .5 sec later three rotates cw
+ - 1 sec later all stop
+And they can act as one unit
+ - all three move forward
+-(all land)
+-This is only the beginning. These robots can move on to localize themselves AND each other in space
+and then ineract and maneuver around each other efficiently and collision free.
+  - We wish we could be showing you this today.  When this event was converted from a Hack-a-thon to a
+  pre-prepared routine and presentation, us lowly freshman were pitted against our final papers and 
+  exams this week, and had to leave our work to yesterday night into this morning
+  - Missing a full 8 hours of sleep each, the three of us were able to make today, but sadly our localization
+  and mapping algorithms were a few hours short of a demo
+-Regardless, our Multidrone communication rewrite will be pushed soon and everyone here will be able to
+their lonely drones the robot party they deserve
+  - In fact, DroneGames and NodeCopter inspired and motivated us to add an entirely new branch to the 
+  Stanford robotics clubs dedicated to drones: focused both on programming and improving the node-ar-drone
+  bindings, and mechanically optimizing the commerically available product for otherwise impossible feats.
+Thanks everyone!'''
+

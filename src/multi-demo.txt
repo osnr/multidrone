@@ -8,7 +8,7 @@ Backgrounds:
 		- Breakthrough
 		- HS robotics
 		- Path to College -> Founder of robotics clubs
-		- Currently 3 projects, 1 competition, $X in funding
+		- Currently 3 projects, 1 competition, $X in funding (so we're happy to be here)
 
 Everyone else is working with one drone:
  - first drone rises

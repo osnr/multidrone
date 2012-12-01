@@ -1,0 +1,15 @@
+<package>
+  <description brief="ardrone_kalman_filter">
+
+     ardrone_kalman_filter
+
+  </description>
+  <author>parallels</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ardrone_kalman_filter</url>
+  <depend package="ardrone_autonomy"/>
+
+</package>
+
+
